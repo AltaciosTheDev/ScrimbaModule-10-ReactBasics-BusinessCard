@@ -6,7 +6,7 @@ import Footer from "./components/Footer.js"
 
 
 
-
+//important comment made as this commit 
 export default function App(){
     return (
         <div className="container">
